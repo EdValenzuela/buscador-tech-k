@@ -1,3 +1,24 @@
+# Front End Developer | Tech-k :globe_with_meridians: :tv:
+## Demo proyecto en netlify [Click Aquí](https://techkevalenzuela.netlify.app/)
+
+### Primer paso
+Para instalar las dependencias del __nodeModules__
+```javascript
+npm i
+```
+
+### Para iniciar el proyecto
+```javascript
+npm start
+```
+
+### Screenshots
+![image](https://user-images.githubusercontent.com/39087254/107825645-3ba7b000-6d62-11eb-953b-958bc8216667.png)
+![image](https://user-images.githubusercontent.com/39087254/107825729-672a9a80-6d62-11eb-89ef-a90f14757ea0.png)
+![image](https://user-images.githubusercontent.com/39087254/107825844-97723900-6d62-11eb-9afc-e11fc7d3391c.png)
+
+<br/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
